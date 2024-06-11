@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Angle of trigonometry</string>
+    <string name="outPut">Each interior angle of your shape has %1$s° degrees</string>
+    <string name="outputInterior">Each Interior One angle of your shape has %1$s° degrees</string>
+    <string name="outputExterior">Each Exterior One angle of your shape has %1$s° degrees</string>
+    <string name="Error">Please reCheck Field and try again</string>
+</resources>
